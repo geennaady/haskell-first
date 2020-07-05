@@ -1,0 +1,1 @@
+mainF = putStrLn "Hi, comrade!"
